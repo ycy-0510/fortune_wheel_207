@@ -71,7 +71,7 @@ class _HomeBodyState extends State<HomeBody> {
     FortuneItem(
       child: Text(
         '許願乙次+抽籤乙次+仙草乙份',
-        style: TextStyle(fontSize: 15),
+        style: TextStyle(fontSize: 10),
       ),
       style: FortuneItemStyle(color: Color(0xFFFFF8DE)),
     ),
@@ -94,7 +94,7 @@ class _HomeBodyState extends State<HomeBody> {
     FortuneItem(
       child: Text(
         '許願乙次+抽籤乙次+仙草乙份',
-        style: TextStyle(fontSize: 15),
+        style: TextStyle(fontSize: 10),
       ),
       style: FortuneItemStyle(color: Color(0xFFFFF8DE)),
     ),
@@ -113,7 +113,7 @@ class _HomeBodyState extends State<HomeBody> {
     FortuneItem(
       child: Text(
         '許願乙次+抽籤乙次+仙草乙份',
-        style: TextStyle(fontSize: 15),
+        style: TextStyle(fontSize: 10),
       ),
       style: FortuneItemStyle(color: Color(0xFFFFF8DE)),
     ),
